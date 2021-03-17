@@ -1,0 +1,5 @@
+G:\Projeto\AlexsanderSalinas_TesteGuiaMoteis\GuiaMoteisDAL\GuiaMoteisDAL\bin\Debug\GuiaMoteisDAL.dll
+G:\Projeto\AlexsanderSalinas_TesteGuiaMoteis\GuiaMoteisDAL\GuiaMoteisDAL\bin\Debug\GuiaMoteisDAL.pdb
+G:\Projeto\AlexsanderSalinas_TesteGuiaMoteis\GuiaMoteisDAL\GuiaMoteisDAL\obj\Debug\ResolveAssemblyReference.cache
+G:\Projeto\AlexsanderSalinas_TesteGuiaMoteis\GuiaMoteisDAL\GuiaMoteisDAL\obj\Debug\GuiaMoteisDAL.dll
+G:\Projeto\AlexsanderSalinas_TesteGuiaMoteis\GuiaMoteisDAL\GuiaMoteisDAL\obj\Debug\GuiaMoteisDAL.pdb
